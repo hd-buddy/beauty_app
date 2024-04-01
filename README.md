@@ -1,7 +1,8 @@
-> BeautyBlend : Your ultimate Beauty Hub
+> I would Like to thank **Vetrivel Ravi**, whose code from github and the youtube video has helped me learn all these concepts.
+
+
 > ![Thumbnail Of the project](./snap.png)
 
-> Follow us for more projects like this [Check on our website](https://codewithvetri.web.app)
 
 BeautyBlend is an exciting project that combines the power of React Native and Sanity to create a captivating hybrid mobile app for a beauty product shop. In this project, you will have the opportunity to learn and explore various technologies, including:
 
